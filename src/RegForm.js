@@ -75,7 +75,7 @@ function RegForm() {
                     <label >Comments </label>
                     <br />
                     <textarea ref={InputRef5} name="Comment" rows="10" cols="100">
-                    At w3schools.com you will learn how to make a website. They offer free tutorials in all web development technologies.
+                    
                     </textarea>
                     </div>
 
